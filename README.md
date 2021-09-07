@@ -1,6 +1,11 @@
 # finedatanalysis
+
+##Assessment
+
 This repository consists of the data analysis and data visualization of fines paid by doctors and the email sent.
 
 The above repository consits of both file format uploaded from Google colab and Jupiter Notebook since Ploty is not viewable in github
 
-While evalusting Please do download and run the file to evaluate the plotly visual images
+While evalusting Please do download and run the file to evaluate the plotly visual images.
+
+Plotly is not viewable in github. So download .ipynb file and run it on local computer for evaluation
